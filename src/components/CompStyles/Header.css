@@ -1,0 +1,16 @@
+header {
+
+    height: 100vh;
+    background: url(../../assets/mobile/image-hero.jpg) no-repeat;
+    background-size: cover;
+}
+
+@media screen and (width >= 768px) {
+    
+    header {
+
+        height: 34em;
+        background: url(../../assets/desktop/image-hero.png) no-repeat;
+        background-size: cover;
+    }
+}
