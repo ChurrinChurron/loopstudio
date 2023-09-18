@@ -5,43 +5,43 @@ const CreationCard = () => {
   const cards = [
     {
         title: 'Deep Earth',
-        imgMobile: 'public/mobile/image-deep-earth.jpg',
-        imgDesktop: 'public/desktop/image-deep-earth.jpg',
+        imgMobile: '/mobile/image-deep-earth.jpg',
+        imgDesktop: '/desktop/image-deep-earth.jpg',
     },
     {
         title: 'Night Arcade',
-        imgMobile: 'public/mobile/image-night-arcade.jpg',
-        imgDesktop: 'public/desktop/image-night-arcade.jpg',
+        imgMobile: '/mobile/image-night-arcade.jpg',
+        imgDesktop: '/desktop/image-night-arcade.jpg'
     },
     {
         title: 'Soccer Team VR',
-        imgMobile: 'public/mobile/image-soccer-team.jpg',
-        imgDesktop: 'public/desktop/image-soccer-team.jpg',
+        imgMobile: '/mobile/image-soccer-team.jpg',
+        imgDesktop: '/desktop/image-soccer-team.jpg'
     },
     {
         title: 'The Grid',
-        imgMobile: 'public/mobile/image-grid.jpg',
-        imgDesktop: 'public/desktop/image-grid.jpg',
+        imgMobile: '/mobile/image-grid.jpg',
+        imgDesktop: '/desktop/image-grid.jpg'
     },
     {
         title: 'From Up Above VR',
-        imgMobile: 'public/mobile/image-from-above.jpg',
-        imgDesktop: 'public/desktop/image-from-above.jpg',
+        imgMobile: '/mobile/image-from-above.jpg',
+        imgDesktop: '/desktop/image-from-above.jpg'
     },
     {
         title: 'Pocket Borealis',
-        imgMobile: 'public/mobile/image-pocket-borealis.jpg',
-        imgDesktop: 'public/desktop/image-pocket-borealis.jpg',
+        imgMobile: '/mobile/image-pocket-borealis.jpg',
+        imgDesktop: '/desktop/image-pocket-borealis.jpg'
     },
     {
         title: 'The Curiosity',
-        imgMobile: 'public/mobile/image-curiosity.jpg',
-        imgDesktop: 'public/desktop/image-curiosity.jpg',
+        imgMobile: '/mobile/image-curiosity.jpg',
+        imgDesktop: '/desktop/image-curiosity.jpg'
     },
     {
         title: 'Make It Fisheye',
-        imgMobile: 'public/mobile/image-fisheye.jpg',
-        imgDesktop: 'public/desktop/image-fisheye.jpg',
+        imgMobile: '/mobile/image-fisheye.jpg',
+        imgDesktop: '/desktop/image-fisheye.jpg'
     }
   ]
 
